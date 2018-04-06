@@ -1,0 +1,6 @@
+X:\CodeProjects\Misc\C#\ConsoleSandbox\ConsoleSandbox\bin\Debug\ConsoleSandbox.exe.config
+X:\CodeProjects\Misc\C#\ConsoleSandbox\ConsoleSandbox\bin\Debug\ConsoleSandbox.exe
+X:\CodeProjects\Misc\C#\ConsoleSandbox\ConsoleSandbox\bin\Debug\ConsoleSandbox.pdb
+X:\CodeProjects\Misc\C#\ConsoleSandbox\ConsoleSandbox\obj\Debug\ConsoleSandbox.csprojResolveAssemblyReference.cache
+X:\CodeProjects\Misc\C#\ConsoleSandbox\ConsoleSandbox\obj\Debug\ConsoleSandbox.exe
+X:\CodeProjects\Misc\C#\ConsoleSandbox\ConsoleSandbox\obj\Debug\ConsoleSandbox.pdb

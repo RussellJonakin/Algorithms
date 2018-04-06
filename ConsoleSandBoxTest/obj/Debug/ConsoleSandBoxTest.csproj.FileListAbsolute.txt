@@ -1,0 +1,8 @@
+X:\CodeProjects\Misc\C#\ConsoleSandbox\ConsoleSandBoxTest\bin\Debug\ConsoleSandBoxTest.dll
+X:\CodeProjects\Misc\C#\ConsoleSandbox\ConsoleSandBoxTest\bin\Debug\ConsoleSandBoxTest.pdb
+X:\CodeProjects\Misc\C#\ConsoleSandbox\ConsoleSandBoxTest\bin\Debug\ConsoleSandbox.exe
+X:\CodeProjects\Misc\C#\ConsoleSandbox\ConsoleSandBoxTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+X:\CodeProjects\Misc\C#\ConsoleSandbox\ConsoleSandBoxTest\bin\Debug\ConsoleSandbox.pdb
+X:\CodeProjects\Misc\C#\ConsoleSandbox\ConsoleSandBoxTest\obj\Debug\ConsoleSandBoxTest.csprojResolveAssemblyReference.cache
+X:\CodeProjects\Misc\C#\ConsoleSandbox\ConsoleSandBoxTest\obj\Debug\ConsoleSandBoxTest.dll
+X:\CodeProjects\Misc\C#\ConsoleSandbox\ConsoleSandBoxTest\obj\Debug\ConsoleSandBoxTest.pdb
