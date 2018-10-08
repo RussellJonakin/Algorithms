@@ -9,3 +9,14 @@ C:\Git\RussellJonakin\echo\ConsoleSandBoxTest\obj\Debug\SimpleAlgorithmsTest.csp
 C:\Git\RussellJonakin\echo\ConsoleSandBoxTest\obj\Debug\SimpleAlgorithmsTest.csproj.CopyComplete
 C:\Git\RussellJonakin\echo\ConsoleSandBoxTest\obj\Debug\ConsoleSandBoxTest.dll
 C:\Git\RussellJonakin\echo\ConsoleSandBoxTest\obj\Debug\ConsoleSandBoxTest.pdb
+C:\Git\RussellJonakin\Algorithms\SimpleAlgorithmsTest\bin\Debug\ConsoleSandBoxTest.dll
+C:\Git\RussellJonakin\Algorithms\SimpleAlgorithmsTest\bin\Debug\ConsoleSandBoxTest.pdb
+C:\Git\RussellJonakin\Algorithms\SimpleAlgorithmsTest\bin\Debug\ConsoleSandbox.exe
+C:\Git\RussellJonakin\Algorithms\SimpleAlgorithmsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Git\RussellJonakin\Algorithms\SimpleAlgorithmsTest\bin\Debug\ConsoleSandbox.pdb
+C:\Git\RussellJonakin\Algorithms\SimpleAlgorithmsTest\bin\Debug\ConsoleSandbox.exe.config
+C:\Git\RussellJonakin\Algorithms\SimpleAlgorithmsTest\obj\Debug\SimpleAlgorithmsTest.csprojAssemblyReference.cache
+C:\Git\RussellJonakin\Algorithms\SimpleAlgorithmsTest\obj\Debug\SimpleAlgorithmsTest.csproj.CoreCompileInputs.cache
+C:\Git\RussellJonakin\Algorithms\SimpleAlgorithmsTest\obj\Debug\SimpleAlgorithmsTest.csproj.CopyComplete
+C:\Git\RussellJonakin\Algorithms\SimpleAlgorithmsTest\obj\Debug\ConsoleSandBoxTest.dll
+C:\Git\RussellJonakin\Algorithms\SimpleAlgorithmsTest\obj\Debug\ConsoleSandBoxTest.pdb

@@ -4,3 +4,9 @@ C:\Git\RussellJonakin\echo\ConsoleSandbox\bin\Debug\ConsoleSandbox.pdb
 C:\Git\RussellJonakin\echo\ConsoleSandbox\obj\Debug\SimpleAlgorithms.csproj.CoreCompileInputs.cache
 C:\Git\RussellJonakin\echo\ConsoleSandbox\obj\Debug\ConsoleSandbox.exe
 C:\Git\RussellJonakin\echo\ConsoleSandbox\obj\Debug\ConsoleSandbox.pdb
+C:\Git\RussellJonakin\Algorithms\SimpleAlgorithms\bin\Debug\ConsoleSandbox.exe.config
+C:\Git\RussellJonakin\Algorithms\SimpleAlgorithms\bin\Debug\ConsoleSandbox.exe
+C:\Git\RussellJonakin\Algorithms\SimpleAlgorithms\bin\Debug\ConsoleSandbox.pdb
+C:\Git\RussellJonakin\Algorithms\SimpleAlgorithms\obj\Debug\SimpleAlgorithms.csproj.CoreCompileInputs.cache
+C:\Git\RussellJonakin\Algorithms\SimpleAlgorithms\obj\Debug\ConsoleSandbox.exe
+C:\Git\RussellJonakin\Algorithms\SimpleAlgorithms\obj\Debug\ConsoleSandbox.pdb

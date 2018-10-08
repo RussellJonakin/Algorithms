@@ -54,7 +54,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ConsoleSandbox\SimpleAlgorithms.csproj">
+    <ProjectReference Include="..\SimpleAlgorithms\SimpleAlgorithms.csproj">
       <Project>{8f9a3e94-4c1c-46c6-b090-f679931d09c2}</Project>
       <Name>SimpleAlgorithms</Name>
     </ProjectReference>
