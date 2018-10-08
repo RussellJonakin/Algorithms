@@ -1,0 +1,11 @@
+C:\Git\RussellJonakin\echo\ConsoleSandBoxTest\bin\Debug\ConsoleSandBoxTest.dll
+C:\Git\RussellJonakin\echo\ConsoleSandBoxTest\bin\Debug\ConsoleSandBoxTest.pdb
+C:\Git\RussellJonakin\echo\ConsoleSandBoxTest\bin\Debug\ConsoleSandbox.exe
+C:\Git\RussellJonakin\echo\ConsoleSandBoxTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Git\RussellJonakin\echo\ConsoleSandBoxTest\bin\Debug\ConsoleSandbox.pdb
+C:\Git\RussellJonakin\echo\ConsoleSandBoxTest\bin\Debug\ConsoleSandbox.exe.config
+C:\Git\RussellJonakin\echo\ConsoleSandBoxTest\obj\Debug\SimpleAlgorithmsTest.csprojAssemblyReference.cache
+C:\Git\RussellJonakin\echo\ConsoleSandBoxTest\obj\Debug\SimpleAlgorithmsTest.csproj.CoreCompileInputs.cache
+C:\Git\RussellJonakin\echo\ConsoleSandBoxTest\obj\Debug\SimpleAlgorithmsTest.csproj.CopyComplete
+C:\Git\RussellJonakin\echo\ConsoleSandBoxTest\obj\Debug\ConsoleSandBoxTest.dll
+C:\Git\RussellJonakin\echo\ConsoleSandBoxTest\obj\Debug\ConsoleSandBoxTest.pdb
