@@ -93,6 +93,16 @@ namespace SimpleAlgorithms
 
         public static bool IsEven(long x)
         {
+            /*
+             * This expression uses a bitwise AND operator (&) to look 
+             * at the lowest bit (the rightmost bit) of the binary representation 
+             * of the number. Even numbers end in 0, and odd numbers end in 1.
+             * This works the same as 'if (x % 2 == 0)' but it is faster and 
+             * offers more performance.
+             * -- Binary Examples --
+             * (e.g., 4 is 0100).
+             * (e.g., 5 is 0101).
+             */
             if ((x & 1) == 0)
             {
                 return true;

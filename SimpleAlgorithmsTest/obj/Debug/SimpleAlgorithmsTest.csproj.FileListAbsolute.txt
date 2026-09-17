@@ -20,3 +20,14 @@ C:\Git\RussellJonakin\Algorithms\SimpleAlgorithmsTest\obj\Debug\SimpleAlgorithms
 C:\Git\RussellJonakin\Algorithms\SimpleAlgorithmsTest\obj\Debug\SimpleAlgorithmsTest.csproj.CopyComplete
 C:\Git\RussellJonakin\Algorithms\SimpleAlgorithmsTest\obj\Debug\ConsoleSandBoxTest.dll
 C:\Git\RussellJonakin\Algorithms\SimpleAlgorithmsTest\obj\Debug\ConsoleSandBoxTest.pdb
+C:\Code\Algorithms\SimpleAlgorithmsTest\bin\Debug\ConsoleSandBoxTest.dll
+C:\Code\Algorithms\SimpleAlgorithmsTest\bin\Debug\ConsoleSandBoxTest.pdb
+C:\Code\Algorithms\SimpleAlgorithmsTest\bin\Debug\ConsoleSandbox.exe
+C:\Code\Algorithms\SimpleAlgorithmsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Code\Algorithms\SimpleAlgorithmsTest\bin\Debug\ConsoleSandbox.pdb
+C:\Code\Algorithms\SimpleAlgorithmsTest\bin\Debug\ConsoleSandbox.exe.config
+C:\Code\Algorithms\SimpleAlgorithmsTest\obj\Debug\SimpleAlgorithmsTest.csproj.AssemblyReference.cache
+C:\Code\Algorithms\SimpleAlgorithmsTest\obj\Debug\SimpleAlgorithmsTest.csproj.CoreCompileInputs.cache
+C:\Code\Algorithms\SimpleAlgorithmsTest\obj\Debug\SimpleAl.8A08F869.Up2Date
+C:\Code\Algorithms\SimpleAlgorithmsTest\obj\Debug\ConsoleSandBoxTest.dll
+C:\Code\Algorithms\SimpleAlgorithmsTest\obj\Debug\ConsoleSandBoxTest.pdb

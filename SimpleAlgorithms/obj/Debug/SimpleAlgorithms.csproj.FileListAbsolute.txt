@@ -10,3 +10,10 @@ C:\Git\RussellJonakin\Algorithms\SimpleAlgorithms\bin\Debug\ConsoleSandbox.pdb
 C:\Git\RussellJonakin\Algorithms\SimpleAlgorithms\obj\Debug\SimpleAlgorithms.csproj.CoreCompileInputs.cache
 C:\Git\RussellJonakin\Algorithms\SimpleAlgorithms\obj\Debug\ConsoleSandbox.exe
 C:\Git\RussellJonakin\Algorithms\SimpleAlgorithms\obj\Debug\ConsoleSandbox.pdb
+C:\Code\Algorithms\SimpleAlgorithms\bin\Debug\ConsoleSandbox.exe.config
+C:\Code\Algorithms\SimpleAlgorithms\bin\Debug\ConsoleSandbox.exe
+C:\Code\Algorithms\SimpleAlgorithms\bin\Debug\ConsoleSandbox.pdb
+C:\Code\Algorithms\SimpleAlgorithms\obj\Debug\SimpleAlgorithms.csproj.AssemblyReference.cache
+C:\Code\Algorithms\SimpleAlgorithms\obj\Debug\SimpleAlgorithms.csproj.CoreCompileInputs.cache
+C:\Code\Algorithms\SimpleAlgorithms\obj\Debug\ConsoleSandbox.exe
+C:\Code\Algorithms\SimpleAlgorithms\obj\Debug\ConsoleSandbox.pdb

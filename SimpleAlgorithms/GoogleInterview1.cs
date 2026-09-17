@@ -27,7 +27,7 @@ namespace SimpleAlgorithms
                 return false;
             }
 
-            if (string.IsNullOrEmpty(word))
+            if (string.IsNullOrWhiteSpace(word))
             {
                 return false;
             }
